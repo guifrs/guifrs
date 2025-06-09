@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Guilherme Ferreira
 
-<!--
-**guifrs/guifrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Data Analyst | Business Associate II at Trela | Economist from USP**
 
-Here are some ideas to get you started:
+I'm a Business Associate II at **Trela** and an Economics graduate from the **University of São Paulo (USP)**. I have a strong background in data analysis, statistical modeling, and process automation. My work is focused on transforming complex datasets into actionable insights that support better decisions and improve operational efficiency.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ What I Do
+
+- 📊 Analyze large datasets using **SQL** and **Python** to identify patterns and guide strategy  
+- 📈 Create **interactive dashboards** and reports to monitor key performance indicators  
+- 🤖 Apply **predictive models** and **geospatial analysis** to enhance business outcomes  
+- 🔌 Automate workflows and integrate systems through **API** solutions to boost scalability  
+
+---
+
+## 🚀 What Drives Me
+
+I’m passionate about using data to solve real-world challenges and continuously developing my skills to deliver impactful and innovative solutions where **analytics meets business strategy**.
+
+---
+
+## 🔗 Links
+
+- [LinkedIn](https://www.linkedin.com/in/guilherme-frs)
+- [Email](guilherme_frs@hotmail.com)
+
