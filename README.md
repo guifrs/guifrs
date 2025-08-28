@@ -15,12 +15,6 @@ I'm a Business Associate II at **Trela** and an Economics graduate from the **Un
 
 ---
 
-## 🚀 What Drives Me
-
-I’m passionate about using data to solve real-world challenges and continuously developing my skills to deliver impactful and innovative solutions where **analytics meets business strategy**.
-
----
-
 ## 🔗 Links
 
 - [LinkedIn](https://www.linkedin.com/in/guilherme-frs)
